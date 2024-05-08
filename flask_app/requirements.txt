@@ -1,0 +1,4 @@
+flask
+flask-cors
+pyspark
+kafka-python
